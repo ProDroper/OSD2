@@ -5,6 +5,8 @@ int main(){
 	scanf("%d", &n);
 	if(n==1){
 	printf("이름은 최준입니다.");
+	}else if(n==2){
+	printf("한양대 에리카 킹갓엠퍼럴충무공입니다.");
 	}
 	return 0;
 }
